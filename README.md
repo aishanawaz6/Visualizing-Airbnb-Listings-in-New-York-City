@@ -1,4 +1,5 @@
-In the project titled "Visualizing Airbnb Listings in New York City," I delved into the world of geospatial data visualization using the powerful library "Folium". The main objective was to create captivating visualizations that showcased the distribution and characteristics of Airbnb listings across the diverse landscape of New York City.
+# **Visualizing Airbnb Listings in New York City**
+In this project, I delved into the world of geospatial data visualization using the powerful library "Folium". The main objective was to create captivating visualizations that showcased the distribution and characteristics of Airbnb listings across the diverse landscape of New York City.
 
 By utilizing the "Airbnb Listings" dataset, which encompassed a treasure trove of information about listings' location coordinates, types, prices, and availability, I embarked on a journey of data exploration and visualization. The project was a multi-step endeavor that required a systematic approach:
 
